@@ -1,6 +1,6 @@
 module github.com/spendesk/github-actions-exporter
 
-go 1.18
+go 1.24
 
 require (
 	github.com/bradleyfalzon/ghinstallation/v2 v2.1.0
@@ -23,7 +23,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.4.1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
-	github.com/klauspost/compress v1.15.0 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
